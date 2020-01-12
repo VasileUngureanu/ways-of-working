@@ -24,7 +24,7 @@
 * [How It’s Made — Babylon Health](https://thecontext.github.io/website/episodes/29-how-its-made-babylon-health/)
 * [How It’s Made — Freeletics](https://thecontext.github.io/website/episodes/25-how-its-made-freeletics/)
 * [How It’s Made — Juno](https://thecontext.github.io/website/episodes/26-how-its-made-juno/)
-* [Ways Of Working](https://github.com/joelparkerhenderson/ways_of_working#software-engineering-at-google)
+* [Ways Of Working](https://github.com/joelparkerhenderson/ways_of_working)
 * [Working at Nodes](https://github.com/nodes-android/guidelines)
 
 ## Usage
