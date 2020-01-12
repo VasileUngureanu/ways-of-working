@@ -4,6 +4,29 @@
 
 > A list of sources with references about how various IT companies and teams work
 
+## Contents
+
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 ## Usage
 
 1. [Creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template).
