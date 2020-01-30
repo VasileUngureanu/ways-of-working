@@ -7,6 +7,7 @@
 ## Contents
 
 * [Avito Tech Team Playbook](https://github.com/avito-tech/playbook)
+* [Android in Avito](https://avito-tech.github.io/avito-android/)
 * [ThoughtBot Guides](https://github.com/thoughtbot/guides)
 * [Vimeo Blueprint](https://github.com/vimeo/Blueprint)
 * [GitLab Employee Handbook](https://about.gitlab.com/handbook/)
