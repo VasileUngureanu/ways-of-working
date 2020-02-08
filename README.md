@@ -29,6 +29,7 @@
 * [Working at Nodes](https://github.com/nodes-android/guidelines)
 * [Working Process at Juno](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97#issuecomment-409603129)
 * [How We Build the Monzo App](https://monzo.com/blog/2018/03/02/app-development)
+* [A Step-by-Step Guide to the RubyGarage Git and Release Management Workflow](https://rubygarage.org/blog/git-and-release-management-workflow)
 
 ## Usage
 
