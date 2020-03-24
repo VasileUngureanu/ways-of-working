@@ -4,6 +4,8 @@
 
 > A collection of resources about how various IT companies and teams work
 
+There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
+
 ## Contents
 
 * [Avito Tech Team Playbook](https://github.com/avito-tech/playbook)
