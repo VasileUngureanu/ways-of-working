@@ -15,6 +15,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [GitLab Employee Handbook](https://about.gitlab.com/handbook/)
 * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
 * [HackerBay Employee Handbook](https://github.com/hackerbay/Employee-Handbook)
+* [The Niteo Handbook](https://github.com/niteoweb/handbook)
 * [Awesome Employee Handbooks](https://github.com/hkdobrev/awesome-handbooks)
 * [Source{d} Guides](https://github.com/src-d/guide)
 * [Buffer Engineering Wiki](https://github.com/bufferapp/README)
