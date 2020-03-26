@@ -1,4 +1,4 @@
-# Ways Of Working
+# Ways of Working
 
 <a href="https://github.com/VasileUngureanu/ways-of-working/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
