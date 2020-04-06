@@ -34,6 +34,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [How We Build the Monzo App](https://monzo.com/blog/2018/03/02/app-development)
 * [A Step-by-Step Guide to the RubyGarage Git and Release Management Workflow](https://rubygarage.org/blog/git-and-release-management-workflow)
 * [Hello, world!](https://medium.com/android-microsoft/hello-world-57fc0630d47c)
+* [How We Build Software: Development Process at Cleveroad](https://www.cleveroad.com/blog/software-development-process)
 
 ## Usage
 
