@@ -36,6 +36,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Hello, world!](https://medium.com/android-microsoft/hello-world-57fc0630d47c)
 * [How We Build Software: Development Process at Cleveroad](https://www.cleveroad.com/blog/software-development-process)
 * [Toggl Mobile Team Documentation](https://github.com/toggl/mobile-docs)
+* [Mobile Platform Team at Grab](https://www.youtube.com/watch?v=XdoTyQsDo2I)
 
 ## Usage
 
